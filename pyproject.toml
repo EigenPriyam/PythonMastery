@@ -1,0 +1,8 @@
+[project]
+name = "pythonmastery"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "nlpcloud>=1.1.47",
+]
